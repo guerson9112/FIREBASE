@@ -1,5 +1,5 @@
 firebase.initializeApp({
-    apiKey: "AIzaSyCRwVCodC8pqqy-KCUQrTRLu-4U-_XphP4",
+    apiKey: "" ,
     authDomain: "practica-4a824.firebaseapp.com",
     projectId: "practica-4a824",
 });
